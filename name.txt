@@ -1,0 +1,131 @@
+The fact that firms cannot (or choose not to) raise capital via equity markets means that if firms wish to invest more than their cash flow allowsâor if they wish to produce more than they can finance out of their current working capitalâthey must turn to credit markets, and to banks in particular.
+From the firmâs perspective, borrowing has one major disadvantage: it imposes a fixed obligation on the firm. If it fails to meet that obligation, the firm can go bankrupt. (By contrast, an all-equity firm cannot go bankrupt.) 
+Firms normally take actions to reduce the likelihood of bankruptcy by acting in a risk-averse manner.
+
+Similarly, costly information explains why banks ration credit.
+Why ration rather than simply charge higher interest rates to higher-risk borrowers?
+Because often the only borrowers who will borrow at high rates are those who are the highest riskâand on whom, therefore, the lenders are most likely to lose. 
+Also, higher interest rates may even induce borrowers to undertake greater risks.
+Thus, the characteristics of credit and equity marketsâcharacteristics that can be explained by imperfect, costly, and asymmetric informationâhelp explain the volatility of the economy. 
+Information economics helps explain economic volatility in another important way.
+In standard theory, changes in economic circumstances lead to changes in wages, prices, and interest rates. 
+Adjustments in these variables act as âshock absorbers.â
+In fact, keynes noted that prices, wages, and interest rates are not so flexible, and a major strand of Keynesian research has placed these rigidities at the center of macroeconomic fluctuations.
+In some cases it has been shown that even though there are many firms, prices might be raised to the monopoly level even when search costs are very small.
+To see why, consider a case where all firms charged the same price.
+If any firm were to raise its price just a littleâby an amount less than the cost to customers of switching to another firmâthat firm would lose no customers.
+Thus, so long as the price is below the monopoly price, it pays that firm to raise its price by a little. 
+But it pays each firm to do so: all raise their pricesâand the process continues until the monopoly price is reached.
+Thus, for reputation mechanisms to work, firms must receive some profits at the margin, and workers must receive wages in excess of their opportunity costs.
+The presence and importance of these higher-than-normal profits and wages, though long recognized, had not been previously explained.
+The standard theorems that underlie the presumption that markets are efficient are no longer valid once we take into account the fact that information is costly and imperfect. To some, this has suggested a switch to the Austrian approach, most forcefully developed during the 1940s and later by friedrich hayek and his followers.
+They have not attempted to âdefendâ markets by the use of theorems.
+Instead, they see markets as institutions that have evolved to solve information problems.
+According to Hayek, neoclassical economics got itself into trouble by assuming perfect information to begin with.
+A much better approach, wrote Hayek, is to assume the world we have, one in which everyone has only a little information. 
+The great virtue of free markets, he wrote, is that they allow each person to efficiently use his own information, and do not require that anyone have all the information. 
+In this sense, Hayek noted, government planning requires the impossibleâthat a small body of officials have all this information.
+\end{frame}
+
+\frame{
+\frametitle{Clases pasadas}
+    \begin{itemize}
+    \item A estas alturas hemos revisado brevemente las causas y consecuencias del calentamiento global
+    \pause
+    \item He intentado, en la medida de lo posible, convencerles de que es necesario tomar acciones
+    \pause
+    \item Hemos enfatizado que las condiciones socioeconÃ³micas de un paÃ­s deberÃ­an estar presentes en cualquier proyecto que diseÃ±emos
+        \begin{itemize}
+        \pause
+        \item Propuesta de ley
+        \pause
+        \item Proyecto tecnolÃ³gico
+        \pause
+        \item Proceso quÃ­mico
+        \end{itemize}
+    \end{itemize}
+}
+
+
+\frame{
+\frametitle{Desigualdades sociales}
+\begin{itemize}
+    \pause
+    \i<t_k>Ã½require"cmp.utils.feedkeys".run(170)
+    utem No podemos discutir todos los factores que hacen que las sociedades sean desiguales.
+    \pause
+    \item Pero uno de los mÃ¡s recurrente es apelar a la ``naturaleza'' humana.
+\end{itemize}
+}
+
+\frame{
+\frametitle{Primero que nada}
+\begin{itemize}
+    \pause
+    \item Hay que saber que no todos los rasgos son heredables.
+    \pause
+    \item AdemÃ¡s sabemos que hay rasgos heredables que no dependen de los genes (la \emph{epigenÃ©tica})
+    \pause
+    \item La naturaleza no es fija
+\end{itemize}
+}
+
+
+\frame{
+\frametitle{Determinismo biolÃ³gico}
+\begin{itemize}
+    \pause
+    \item Recordemos que cuando hay conflictos de intereses, la investigaciÃ³n suele estar viciada
+    \pause
+    \item En muchas ocasiones, las personas que realizan la investigaciÃ³n estÃ¡n sesgadas.
+\end{itemize}
+}
+
+\frame{
+\frametitle{}
+\begin{itemize}
+\pause
+    \item Se pasan por el arco del triunfo la distinciÃ³n entre cuestiones normativas y d<t_ý>hlua require"cmp.utils.feedkeys".run(124)
+    kuescriptivas.
+    \pause
+    \item Â¿QuÃ© rayos hacen las diferencias fÃ­sicas que a partir de ellas seÃ±alamos lo que es \emph{justo} o \emph{injusto} 
+\end{itemize}
+}
+
+\frame{
+\frametitle{IQ, ``raza'', gÃ©nero}
+
+}
+
+\frame{
+\frametitle{Diferentes consecuencias debido a diferentes oportunidades}
+    \begin{itemize}
+    \pause
+    \item No es necesario ir tan lejos para convencernos de esto, porque enn MÃ©xico, hay profundas desigualdade<t_k>Ã½require"cmp.utils.feedkeys".run(101)
+    us.
+    \pause
+    \item Â¿QuÃ© estatus tienen las personas en situaciÃ³n de calle?
+    \pause
+    \item QuÃ© potestades queremos delegar al estado.
+    \end{itemize}
+}
+
+
+\frame{
+\frametitle{Clases pasadas 2}
+\begin{itemize}
+\pause
+\item He intentado convencerles de que necesitamos procesos vinculantes para que las entidades morales y fÃ­sicas se hagan responsables
+\pause
+\item Y si he hecho bien mi trabajo, todas deberÃ­an estar de acuerdo en que los problemas podrÃ­an comenzar a solucionarse apelando a la \emph{empatÃ­a} humana
+\end{itemize}
+}
+
+\frame{
+\frametitle{Â¿QuÃ© papel juega la empatÃ­a?}
+\begin{itemize}
+    \pause
+    \item En clases pasadas hemos concentrado nuestra atenciÃ³n en los problemas ambientales que nos afectan actualmente.
+    \pause
+nt, these are things we can properly be ``held responsible'' for in several central senses of that phrase: they can be properly attributed to us, and we can properly be asked to defend them --to justify the judgment they reject. 
+%}
