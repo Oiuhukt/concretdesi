@@ -7,18 +7,17 @@
 \addbibresource{biblio.bib}
 \usepackage{csquotes}
 
-%\usepackage{fontspec}
-%\setsansfont[
- % ItalicFont={Fira Sans Light Italic},
- % BoldFont={Fira Sans},
- % BoldItalicFont={Fira Sans Italic}
-%]{Fira Sans Light}
-%\setmonofont[BoldFont={Fira Mono Medium}]{Fira Mono}
-%\%AtBeginEnvironment{tabular}{%
-  %\addfontfeature{Numbers={Monospaced}}
-%}
-%\usetheme{moloch}
+\usepackage{fontspec}
+\setsansfont[
+ ItalicFont={Fira Sans Light Italic},
+ BoldFont={Fira Sans},
+ BoldItalicFont={Fira Sans Italic}
+]{Fira Sans Light}
+\setmonofont[BoldFont={Fira Mono Medium}]{Fira Mono}
+\AtBeginEnvironment{tabular}{\addfontfeature{Numbers={Monospaced}}
+}
 
+\usetheme{moloch}
 \setbeamertemplate{footline}[frame number]
 
 \title{Desarrollo sustentable}
@@ -28,11 +27,10 @@
 
 \begin{document}
 
-
-
 \frame{
 \maketitle
 }
+
 
 \section{Preámbulo}
 
@@ -95,7 +93,7 @@
 
 
 \frame{
-\frametitle{Qué implica?}
+\frametitle{¿Qué implica?}
 \begin{itemize}
 \pause
 \item Desigualdad en la información
@@ -108,10 +106,13 @@
 
 
 \frame{
-\frametitle{¿Cómo podemos tratar el problema?}
+\frametitle{Nuestros propios sesgos}
 \begin{quote}
-    Food shortages in Malawi are affecting more than 3 million children; In Zambia, severe rainfall deficits have resulted in a 42\% drop in maize production from 2000. 
-    As a result, an estimated 3 million Zambians face hunger; Four million Angolans --tne third of the population-- have been forced to flee their homes; More than 11 million people in Ethiopia need immediate food assistance. 
+    Food shortages in Malawi are affecting more than 3 million children;
+    In Zambia, severe rainfall deficits have resulted in a 42\% drop in maize production from 2000. 
+    As a result, an estimated 3 million Zambians face hunger; 
+    Four million Angolans --tne third of the population-- have been forced to flee their homes;
+    More than 11 million people in Ethiopia need immediate food assistance. 
 \end{quote}
 }
 
@@ -139,6 +140,7 @@
 
 
 \section{Outline}
+
 
 \frame{
 \frametitle{Sugiero}
@@ -181,7 +183,7 @@
 
 
 \frame{
-\frametitle{Filosofía Moral}
+\frametitle{Cuestiones ``centrales''}
 \begin{itemize}
     \pause
     \item ¿Qué hace que algo sea una acción buena$/$mala, justa$/$injusta?
@@ -191,6 +193,7 @@
     \item ¿Cuál es la base de las afirmaciones morales?
 \end{itemize}
 }
+
 
 \begin{frame}[standout]
 No podemos discutir todo esto porque no es una clase de filosofía moral
@@ -224,9 +227,9 @@ segundo, que me voy a aprovechar que la frase ``lo que nos debemos unos a otros'
     \pause
     \item Quiero decir que es polisémica porque tenemos dos caras de una moneda. 
     \pause
-    \item Por un lado, la teoría filosófica de Scanlon \citeyear{scanlon} que aparece en su libro \emph{What We Owe to Each Other}
+    \item Por un lado, la teoría filosófica de Scanlon \parencite{scanlon} que aparece en su libro \emph{What We Owe to Each Other}
     \pause
-    \item Por otro lado, la literatura en torno a las políticas de igualdad que se han discutido recientemente, englobadas en el libro \emph{What We Owe Each Other} de Shafik \citeyear{shafik2021we}
+    \item Por otro lado, la literatura en torno a las políticas de igualdad que se han discutido recientemente, englobadas en el libro \emph{What We Owe Each Other} de Shafik \parencite{shafik2021we}
 \end{itemize}
 }
 
@@ -241,7 +244,8 @@ segundo, que me voy a aprovechar que la frase ``lo que nos debemos unos a otros'
 \end{itemize}
 }
 
-\subsection{Contractualismo}
+
+\subsection{Contractualismo: al menos lo de Scanlon}
 
 \frame{
 \frametitle{Contractualismo}
@@ -261,6 +265,11 @@ segundo, que me voy a aprovechar que la frase ``lo que nos debemos unos a otros'
 \end{itemize}
 }
 
+\begin{frame}[stadount]
+Citas clave
+\end{frame}
+
+
 \frame{
 \frametitle{Una cita}
 \begin{quote}
@@ -270,12 +279,14 @@ No interesting question would remain about the ontology of morals --for example,
 \end{quote}
 }
 
+
 \frame{
 \frametitle{Scanlon}
 \begin{quote}
 When I ask myself what reason the fact that an action would be wrong provides me with not to do it, my answer is that such an action would be one that I could not justify to others on grounds I could expect them to accept.
 \end{quote}
 }
+
 
 \frame{
 \frametitle{The game of giving reasons}
@@ -285,20 +296,25 @@ It holds that thinking about right and wrong is, at the most basic level, thinki
 }
 
 
+\section{Cómo lidiar con la desigualdad}
+
 \frame{
 \frametitle{Desigualdad}
 \begin{itemize}
 \pause
 \item ¿Igualdad de oportunidades?
 \pause
-\item Pensemos en la analogía con la línea de salida de una carrera
-\item Esto significa: asegurar la igualdad de oportunidades
+\item Pensemos en la analogía con la línea de salida de una carrera.
+\pause
+\item Digamos que si cualquier persona quiere ser nadadora olímpica, se asegure que cualquiera pueda hacerlo.
 \end{itemize}
 }
+
 
 \frame{
 \frametitle{¿Qué \emph{deberíamos} incluir?}
 \begin{itemize}
+\pause
 \item Trabajo
 \pause
 \item Vivienda
@@ -310,6 +326,30 @@ It holds that thinking about right and wrong is, at the most basic level, thinki
 \item ¿Deberíamos?
 \end{itemize}
 }
+
+\frame{
+\frametitle{¿Por qué deberíamos?}
+\begin{itemize}
+\pause
+\item La respuesta obvia es que \emph{deberíamos} dar estos servicios, porque son necesarios para vivir.
+\pause
+\item Es decir que si estas necesidades no están cubiertas, entonces debemos pagar --por ejemplo-- comida. En lugar de pagar, digamos, internet.
+\end{itemize}
+}
+
+\frame{
+\frametitle{Peor aún}
+Si dejamos que estas necesidades básicas participen en el mercado (venta y compra), las consecuencias son aterradoras
+}
+
+\frame{
+\frametitle{Desconfianza}
+\begin{itemize}
+\item Aún así hay cierta reserva social en los apoyos económicos y en cómo se distribuye la riqueza
+\end{itemize}
+}
+
+
 
 \section{Bienes no dispuestos a venta}
 
@@ -332,6 +372,27 @@ It holds that thinking about right and wrong is, at the most basic level, thinki
 \end{figure}
 }
 
+\frame{
+\frametitle{James Tobin}
+\begin{figure}
+\centering
+\includegraphics[width=0.9\linewidth]{img/tobin1.png}
+\caption{\cite{tobinlimit}}
+\label{fig:tobin1}
+\end{figure}
+}
+
+\frame{
+\frametitle{James Tobin}
+\begin{figure}
+\centering
+\includegraphics[width=0.9\linewidth]{img/tobin2.png}
+\caption{\cite{tobinlimit}}
+\label{fig:tobin2}
+\end{figure}
+}
+
+
 \begin{frame}
 \frametitle{Tobin}
     \begin{enumerate}
@@ -345,21 +406,48 @@ It holds that thinking about right and wrong is, at the most basic level, thinki
         \begin{enumerate}
         \item \emph{Deberíamos}, principalmente, porque estamos de acuerdo de que hay bienes básicos (aquí es donde me parece entra el acuerdo)
         \end{enumerate}
-  \item Entonces separemos a la eficiencia mercantil de la justicia social
+  \item \item{Deberíamos distribuir bienes}, entonces separemos a la eficiencia mercantil de la justicia social
   \end{enumerate}
   \end{enumerate}
 \end{frame}
 
+
+\begin{frame}[standout]
+Dios santo, esto es demasiado obvio como para que valga la pena mencionarlo.
+\end{frame}
+
 \frame{
-    \frametitle{Pensemos en tres casos}
+\frametitle{LDE}
+\begin{figure}
+\centering
+\includegraphics[width=0.9\linewidth]{img/dios1.png}
+\caption{1970}
+\label{fig:dios}
+\end{figure}
+}
+
+\frame{
+\frametitle{LDE}
+\begin{figure}
+\centering
+\includegraphics[width=0.9\linewidth]{img/dios2.png}
+\caption{1970}
+\label{fig:santo}
+\end{figure}
+}
+
+
+\frame{
+\frametitle{Pensemos en tres casos}
     \begin{itemize}
-        \item Salud
-        \pause
-        \item Vivienda
-        \pause
-        \item Educación
+    \pause
+    \item Salud
+    \pause
+    \item Vivienda
+    \pause
+    \item Educación
     \end{itemize}
-    }
+}
 
 
 
@@ -388,63 +476,66 @@ It holds that thinking about right and wrong is, at the most basic level, thinki
 \end{quote}
 }
 
-\section{Confesión}
+%\section{Confesión}
 
-\frame{
-\frametitle{Qué está pasando}
-\begin{itemize}
-    \item Creo que hay algo en lo que he fallado hasta ahora
-    \pause
-    \item Me refiero a que creo que no he logrado convencerles de la importancia de estos temas
-\end{itemize}
-}
-
-
-\frame{
-\frametitle{Nuestros temas pasados}
-\begin{itemize}
-    \item Las primeras semanas revisamos la ``ciencia'' básica del cambio climático
-    \pause
-    \item Revisamos el problema del efecto invernadero.
-    \pause
-    \item Señalamos algunas de sus causas
-    \pause
-    \item Exploramos algunas de sus consecuencias
-\end{itemize}
-}
+%\frame{
+%\frametitle{Qué está pasando}
+%\begin{itemize}
+%    \item Creo que hay algo en lo que he fallado hasta ahora
+%    \pause
+%    \item Me refiero a que creo que no he logrado convencerles de la importancia de estos temas
+%\end{itemize}
+%}
 
 
-\frame{
-\frametitle{Consecuencias sociales}
-\begin{itemize}
-    \item Repasamos brevemente cuáles son las consecuencias sociales de nuestra interacción con el ambiente
-    \pause
-    \item Me interesaba que nos centráramos en las consecuencias sociales porque estos problemas han dejado de ser debates académicos
-    \pause
-    \item Han dejado de ser debates académicos y se han convertido en una necesidad social
-\end{itemize}
-}
+%\frame{
+%\frametitle{Nuestros temas pasados}
+%\begin{itemize}
+%    \item Las primeras semanas revisamos la ``ciencia'' básica del cambio climático
+%    \pause
+%    \item Revisamos el problema del efecto invernadero.
+%    \pause
+%    \item Señalamos algunas de sus causas
+%    \pause
+%    \item Exploramos algunas de sus consecuencias
+%\end{itemize}
+%}
 
-\frame{
-\frametitle{Consecuencias para los desfavorecidos}
-\begin{itemize}
-    \item Si ustedes revisan cualquier manual oficial sobre la enseñanza de esta materia, sabrán que se esperan demasiadas cosas para sólo un curso.
-\end{itemize}
-}
 
-\frame{
-\frametitle{Por ejemplo}
-\begin{quote}
-Education for sustainable development (ESD) gives learners of all ages the knowledge, skills, values and agency to address interconnected global challenges including climate change, loss of biodiversity, unsustainable use of resources, and inequality. \cite{UNESCO_2024}
-\end{quote}
-}
+%\frame{
+%\frametitle{Consecuencias sociales}
+%\begin{itemize}
+%    \item Repasamos brevemente cuáles son las consecuencias sociales de nuestra interacción con el ambiente
+%    \pause
+%    \item Me interesaba que nos centráramos en las consecuencias sociales porque estos problemas han dejado de ser debates académicos
+%    \pause
+%    \item Han dejado de ser debates académicos y se han convertido en una necesidad social
+%\end{itemize}
+%}
 
-\frame{
-\frametitle{Pero en la medida}
-\begin{itemize}
-\item de lo posible, vamos a tratar con cierto detalle el problema de la desigualdad
-\end{itemize}
-}
+%\frame{
+%\frametitle{Consecuencias para los desfavorecidos}
+%\begin{itemize}
+%    \item Si ustedes revisan cualquier manual oficial sobre la enseñanza de esta materia, sabrán que se esperan demasiadas cosas para sólo un curso.
+%\end{itemize}
+%}
+
+%\frame{
+%\frametitle{Por ejemplo}
+%\begin{quote}
+%Education for sustainable development (ESD) gives learners of all ages the knowledge, skills, %values and agency to address interconnected global challenges including climate change, loss of %biodiversity, unsustainable use of resources, and inequality. \cite{UNESCO_2024}
+%\end{quote}
+%}
+
+%\frame{
+%\frametitle{Pero en la medida}
+%\begin{itemize}
+%\item de lo posible, vamos a tratar con cierto detalle el problema de la desigualdad
+%\end{itemize}
+%}
+
+
+\section{El estado de la teoría económica actual}
 
 \frame{
 \frametitle{Deuda}
@@ -571,48 +662,6 @@ Education for sustainable development (ESD) gives learners of all ages the knowl
     \pause
     \item Sabemos que la simple ayuda monetaria no nos asegura la \emph{justicia}
 \end{itemize}
-}
-
-
-\frame{
-\frametitle{Tenemos, por ejemplo}
-\begin{itemize}
-    \item Personas que no pueden tener un excedente (barrera económica)
-    \pause
-    \item Personas que viven a largas distancias de las zonas donde se concentran los intercambios mercantiles (barrera geográfica)
-    \pause
-    \item Personas a quienes se les impide acceder a bienes y servicios (barrera cultural)
-\end{itemize}
-}
-
-\frame{
-\frametitle{Nuestra apuesta}
-\begin{itemize}
-    \item Fue que deberíamos asegurar la igualdad de oportunidades para todos los ciudadanos
-    \pause
-    \item Que incluso si quieren ceder sus derechos voluntariamente, no sea posible.
-\end{itemize}
-}
-
-
-\frame{
-\frametitle{James Tobin}
-\begin{figure}
-\centering
-\includegraphics[width=0.9\linewidth]{img/tobin1.png}
-\caption{\cite{tobinlimit}}
-\label{fig:tobin1}
-\end{figure}
-}
-
-\frame{
-\frametitle{James Tobin}
-\begin{figure}
-\centering
-\includegraphics[width=0.9\linewidth]{img/tobin2.png}
-\caption{\cite{tobinlimit}}
-\label{fig:tobin2}
-\end{figure}
 }
 
 
