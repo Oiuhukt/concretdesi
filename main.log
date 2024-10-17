@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.16)  16 OCT 2024 22:26
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.16)  17 OCT 2024 10:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -719,7 +719,7 @@ sty))) (/home/oiuhukt/.miktex/texmfs/install/tex/generic/babel/babel.sty
 Package: babel 2024/08/29 v24.9 The Babel package
 \babel@savecnt=\count342
 \U@D=\dimen295
-\l@unhyphenated=\language1
+\l@unhyphenated=\language2
 
 (/home/oiuhukt/.miktex/texmfs/install/tex/generic/babel/xebabel.def)
 \bbl@readstream=\read3
@@ -743,6 +743,8 @@ Package babel Warning: No hyphenation patterns were preloaded for
 (babel)                rebuild the format. Now I will use the patterns
 (babel)                preloaded for \language=0 instead on input line 51.
 
+Package babel Info: Hyphen rules for 'spanish' set to \l@english
+(babel)             (\language0). Reported on input line 52.
 \es@quottoks=\toks46
 \es@quotdepth=\count344
 Package babel Info: Making " an active character on input line 570.
@@ -825,7 +827,7 @@ Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 \bibhang=\skip73
 \blx@bcfin=\read4
 \blx@bcfout=\write5
-\blx@langwohyphens=\language2
+\blx@langwohyphens=\language3
 \c@mincomprange=\count389
 \c@maxcomprange=\count390
 \c@mincompwidth=\count391
@@ -1569,17 +1571,6 @@ LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
 
 ]
 
-! Package keyval Error: stadount undefined.
-
-See the keyval package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.263 \end{frame}
-                 
-? 
-
-
 [55
 
 ]
@@ -1671,58 +1662,58 @@ l.263 \end{frame}
 [77
 
 ]
+
+[78
+
+]
+
+[79
+
+]
 File: img/charlatans.png Graphic file (type bmp)
 <img/charlatans.png>
 
 
-[78
+[80
 
 ]
 File: img/tobin1.png Graphic file (type bmp)
 <img/tobin1.png>
 
 
-[79
+[81
 
 ]
 File: img/tobin2.png Graphic file (type bmp)
 <img/tobin2.png>
 
 
-[80
+[82
 
 ]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 405.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 407.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 405.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 407.
 
 
-[81
+[83
 
 ]
 
-[82
+[84
 
 ]
 File: img/dios1.png Graphic file (type bmp)
 <img/dios1.png>
 
 
-[83
+[85
 
 ]
 File: img/dios2.png Graphic file (type bmp)
 <img/dios2.png>
 
-
-[84
-
-]
-
-[85
-
-]
 
 [86
 
@@ -1743,35 +1734,43 @@ File: img/dios2.png Graphic file (type bmp)
 [90
 
 ]
+File: img/sandel1.png Graphic file (type bmp)
+<img/sandel1.png>
+
 
 [91
 
 ]
-LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 461.
-
+File: img/sandel2.png Graphic file (type bmp)
+<img/sandel2.png>
 
 
 [92
 
 ]
+File: img/sandel3.png Graphic file (type bmp)
+<img/sandel3.png>
+
 
 [93
 
 ]
+File: img/sandel4.png Graphic file (type bmp)
+<img/sandel4.png>
+
 
 [94
 
 ]
-File: img/debt.jpg Graphic file (type bmp)
-<img/debt.jpg>
+File: img/sandel5.png Graphic file (type bmp)
+<img/sandel5.png>
 
 
 [95
 
 ]
-File: img/graeber.jpg Graphic file (type bmp)
-<img/graeber.jpg>
+File: img/sandel6.png Graphic file (type bmp)
+<img/sandel6.png>
 
 
 [96
@@ -1789,6 +1788,10 @@ File: img/graeber.jpg Graphic file (type bmp)
 [99
 
 ]
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <14.4> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 523.
+
+
 
 [100
 
@@ -1801,10 +1804,16 @@ File: img/graeber.jpg Graphic file (type bmp)
 [102
 
 ]
+File: img/debt.jpg Graphic file (type bmp)
+<img/debt.jpg>
+
 
 [103
 
 ]
+File: img/graeber.jpg Graphic file (type bmp)
+<img/graeber.jpg>
+
 
 [104
 
@@ -1845,23 +1854,14 @@ File: img/graeber.jpg Graphic file (type bmp)
 [113
 
 ]
-File: img/sandel.jpg Graphic file (type bmp)
-<img/sandel.jpg>
-
 
 [114
 
 ]
-File: img/asmoral.png Graphic file (type bmp)
-<img/asmoral.png>
-
 
 [115
 
 ]
-File: img/indicestr.png Graphic file (type bmp)
-<img/indicestr.png>
-
 
 [116
 
@@ -1874,22 +1874,35 @@ File: img/indicestr.png Graphic file (type bmp)
 [118
 
 ]
+Missing character: There is no ’ in font ec-lmsso10!
+
 
 [119
 
 ]
+Missing character: There is no ’ in font ec-lmsso10!
+
 
 [120
 
 ]
+File: img/sandel.jpg Graphic file (type bmp)
+<img/sandel.jpg>
+
 
 [121
 
 ]
+File: img/asmoral.png Graphic file (type bmp)
+<img/asmoral.png>
+
 
 [122
 
 ]
+File: img/indicestr.png Graphic file (type bmp)
+<img/indicestr.png>
+
 
 [123
 
@@ -1922,11 +1935,6 @@ File: img/indicestr.png Graphic file (type bmp)
 [130
 
 ]
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 708.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 708.
-
 
 [131
 
@@ -1947,38 +1955,23 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
 [135
 
 ]
-File: img/chaos.png Graphic file (type bmp)
-<img/chaos.png>
-
-Overfull \vbox (34.94644pt too high) detected at line 737
- []
-
-
 
 [136
 
 ]
-File: img/bitfool.png Graphic file (type bmp)
-<img/bitfool.png>
-
 
 [137
 
 ]
-File: img/theranking.png Graphic file (type bmp)
-<img/theranking.png>
-
-Overfull \vbox (40.24677pt too high) detected at line 757
- []
-
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 766.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 766.
 
 
 [138
 
 ]
-File: img/rationalfool.png Graphic file (type bmp)
-<img/rationalfool.png>
-
 
 [139
 
@@ -1995,39 +1988,92 @@ File: img/rationalfool.png Graphic file (type bmp)
 [142
 
 ]
+File: img/chaos.png Graphic file (type bmp)
+<img/chaos.png>
+
+Overfull \vbox (34.94644pt too high) detected at line 795
+ []
+
+
 
 [143
 
 ]
+File: img/bitfool.png Graphic file (type bmp)
+<img/bitfool.png>
+
 
 [144
 
 ]
+File: img/theranking.png Graphic file (type bmp)
+<img/theranking.png>
+
+Overfull \vbox (40.24677pt too high) detected at line 815
+ []
+
+
 
 [145
+
+]
+File: img/rationalfool.png Graphic file (type bmp)
+<img/rationalfool.png>
+
+
+[146
+
+]
+
+[147
+
+]
+
+[148
+
+]
+
+[149
+
+]
+
+[150
+
+]
+
+[151
+
+]
+
+[152
 
 ]
 File: beamericonarticle.pdf Graphic file (type pdf)
 <use beamericonarticle.pdf>
 File: beamericonarticle.pdf Graphic file (type pdf)
 <use beamericonarticle.pdf>
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 79
-8.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 85
+6.
  (/home/oiuhukt/.miktex/texmfs/install/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 798.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 856.
 
 File: beamericonarticle.pdf Graphic file (type pdf)
 <use beamericonarticle.pdf>
 File: beamericonarticle.pdf Graphic file (type pdf)
 <use beamericonarticle.pdf>
+Missing character: There is no ’ in font ec-lmsso10!
 File: beamericonarticle.pdf Graphic file (type pdf)
 <use beamericonarticle.pdf>
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 7
-98.
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 8
+56.
 (/home/oiuhukt/.miktex/texmfs/install/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -2035,7 +2081,12 @@ File: beamericonarticle.pdf Graphic file (type pdf)
 <use beamericonarticle.pdf>
 
 
-[146
+[153
+
+]
+
+[154
+
 
 ]
 \tf@nav=\write7
@@ -2056,19 +2107,27 @@ LaTeX Info: Redefining \% on input line 12.
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: AAAB4118C65A40C40E1E94E72B5CD0FC;1970.
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34693 strings out of 410999
- 680072 string characters out of 5789668
- 1276365 words of memory out of 5000000
- 56677 multiletter control sequences out of 15000+600000
+ 34764 strings out of 410975
+ 681603 string characters out of 5789322
+ 1278043 words of memory out of 5000000
+ 56750 multiletter control sequences out of 15000+600000
  630101 words of font info for 92 fonts, out of 8000000 for 9000
- 0 hyphenation exceptions out of 8191
+ 14 hyphenation exceptions out of 8191
  128i,11n,123p,1879b,5204s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (146 pages).
+Output written on main.pdf (154 pages).

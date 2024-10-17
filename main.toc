@@ -4,8 +4,8 @@
 \beamer@sectionintoc {3}{Curso intensivísimo de filosofía moral}{28}{0}{3}
 \beamer@sectionintoc {4}{Nuestra idea de justicia}{43}{0}{4}
 \beamer@subsectionintoc {4}{1}{Contractualismo: al menos lo de Scanlon}{51}{0}{4}
-\beamer@sectionintoc {5}{Cómo lidiar con la desigualdad}{59}{0}{5}
-\beamer@sectionintoc {6}{Bienes no dispuestos a venta}{75}{0}{6}
-\beamer@sectionintoc {7}{El estado de la teoría económica actual}{94}{0}{7}
-\beamer@sectionintoc {8}{Brevísima caraterización}{103}{0}{8}
-\beamer@sectionintoc {9}{Brevísima caraterización}{117}{0}{9}
+\beamer@sectionintoc {5}{Cómo lidiar con la desigualdad}{61}{0}{5}
+\beamer@sectionintoc {6}{Bienes no dispuestos a venta}{77}{0}{6}
+\beamer@sectionintoc {7}{El estado de la teoría económica actual}{102}{0}{7}
+\beamer@sectionintoc {8}{Brevísima caraterización}{110}{0}{8}
+\beamer@sectionintoc {9}{Brevísima caraterización}{124}{0}{9}

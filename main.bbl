@@ -40,6 +40,53 @@
     \field{year}{2015}
   \endentry
 
+  \entry{atkinson2009economics}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=AAB}{%
+         family={Atkinson},
+         familyi={A\bibinitperiod},
+         given={Anthony\bibnamedelima B},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{AAB1}
+    \strng{fullhash}{AAB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{pages}{791\bibrangedash 804}
+    \field{title}{Economics as a moral science}
+    \field{volume}{76}
+    \field{journaltitle}{Economica}
+    \field{year}{2009}
+  \endentry
+
+  \entry{sandel1998money}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=SMJ}{%
+         family={Sandel},
+         familyi={S\bibinitperiod},
+         given={Michael\bibnamedelima J},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Brasenose College, Oxford}%
+    }
+    \strng{namehash}{SMJ1}
+    \strng{fullhash}{SMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{What money can’t buy: the moral limits of markets}
+    \field{year}{2012}
+  \endentry
+
   \entry{scanlon}{book}{}{}
     \name{author}{1}{}{%
       {{hash=ST}{%
